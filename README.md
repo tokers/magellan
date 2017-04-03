@@ -4,7 +4,7 @@ A cool tone  scheme of VIM
 <img src="http://farm9.static.flickr.com/8142/7465025250_5b199509b6_z.jpg" />
 
 
-## Screen Shot
+## Screenshot
 <img src="http://alextest4.b0.upaiyun.com/magellan_screenshot.png">
 
 ## Installation
