@@ -1,6 +1,5 @@
 """"""""""""""""""""""""""""""""""""""""""
-" Copyright Alex(zchao1995@gmail.com)    "
-"          VIM scheme: ACE               "
+"    Copyright Alex(zchao1995@gmail.com) "
 """"""""""""""""""""""""""""""""""""""""""
 
 
@@ -11,8 +10,6 @@ highlight clear
 if exists("syntax_on")
     syntax reset
 endif
-
-
 
 let g:colors_name = "magellan"
 
